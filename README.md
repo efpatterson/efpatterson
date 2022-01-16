@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efpatterson (Liz Patterson)
 - 👀 I’m interested in becoming a better test automation engineer.
-- 🌱 I’m currently learning Javascript/Cypress.
+- 🌱 I currently work mostly with Javascript/Cypress but Python is my preferred language.
 - 📫 How to reach me:  mz.liz.patterson@gmail.com
 
 <!---
